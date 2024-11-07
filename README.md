@@ -1,2 +1,1 @@
-# PythonProject
-IBM Data Analytics
+Data visualization lab
